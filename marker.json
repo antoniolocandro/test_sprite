@@ -1,0 +1,646 @@
+{
+  "084_AD_CivilLand": {
+    "height": 32,
+    "pixelRatio": 1,
+    "width": 32,
+    "x": 690,
+    "y": 109
+  },
+  "101_Navaid_VOR": {
+    "height": 32,
+    "pixelRatio": 1,
+    "width": 32,
+    "x": 722,
+    "y": 109
+  },
+  "102_Navaid_DME": {
+    "height": 32,
+    "pixelRatio": 1,
+    "width": 32,
+    "x": 754,
+    "y": 109
+  },
+  "103_Navaid_VOR_DME": {
+    "height": 32,
+    "pixelRatio": 1,
+    "width": 32,
+    "x": 786,
+    "y": 109
+  },
+  "140_single_windfarm_no_light": {
+    "height": 32,
+    "pixelRatio": 1,
+    "width": 32,
+    "x": 818,
+    "y": 109
+  },
+  "hand_blue": {
+    "height": 109,
+    "pixelRatio": 1,
+    "width": 117,
+    "x": 0,
+    "y": 0
+  },
+  "ndb": {
+    "height": 50,
+    "pixelRatio": 1,
+    "width": 50,
+    "x": 640,
+    "y": 109
+  },
+  "weather_aquarius": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 117,
+    "y": 0
+  },
+  "weather_aries": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 109
+  },
+  "weather_cancer": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 109
+  },
+  "weather_capricorn": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 109
+  },
+  "weather_cloud": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 173
+  },
+  "weather_cloud_drop": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 173
+  },
+  "weather_cloud_lightning": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 173
+  },
+  "weather_cloud_snowflake": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 237
+  },
+  "weather_downpour_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 237
+  },
+  "weather_downpour_halfmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 237
+  },
+  "weather_downpour_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 301
+  },
+  "weather_drop": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 301
+  },
+  "weather_first_quarter ": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 301
+  },
+  "weather_fog": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 365
+  },
+  "weather_fog_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 365
+  },
+  "weather_fog_halfmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 365
+  },
+  "weather_fog_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 109
+  },
+  "weather_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 109
+  },
+  "weather_gemini": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 109
+  },
+  "weather_hail": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 109
+  },
+  "weather_hail_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 173
+  },
+  "weather_hail_halfmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 173
+  },
+  "weather_hail_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 173
+  },
+  "weather_last_quarter": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 173
+  },
+  "weather_leo": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 237
+  },
+  "weather_libra": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 237
+  },
+  "weather_lightning": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 237
+  },
+  "weather_mistyrain": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 237
+  },
+  "weather_mistyrain_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 301
+  },
+  "weather_mistyrain_halfmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 301
+  },
+  "weather_mistyrain_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 301
+  },
+  "weather_moon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 301
+  },
+  "weather_moondown_full": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 365
+  },
+  "weather_moondown_half": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 365
+  },
+  "weather_moonset_full": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 365
+  },
+  "weather_moonset_half": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 365
+  },
+  "weather_move2": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 181,
+    "y": 0
+  },
+  "weather_newmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 245,
+    "y": 0
+  },
+  "weather_pisces": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 309,
+    "y": 0
+  },
+  "weather_rain": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 373,
+    "y": 0
+  },
+  "weather_rain_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 429
+  },
+  "weather_rain_halfmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 429
+  },
+  "weather_rain_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 429
+  },
+  "weather_sagittarius": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 429
+  },
+  "weather_scorpio": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 429
+  },
+  "weather_snow": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 429
+  },
+  "weather_snow_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 429
+  },
+  "weather_snow_halfmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 493
+  },
+  "weather_snow_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 493
+  },
+  "weather_snowflake": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 493
+  },
+  "weather_star": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 493
+  },
+  "weather_storm-11": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 493
+  },
+  "weather_storm-32": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 493
+  },
+  "weather_storm_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 493
+  },
+  "weather_storm_halfmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 557
+  },
+  "weather_storm_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 557
+  },
+  "weather_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 557
+  },
+  "weather_sundown": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 557
+  },
+  "weather_sunset": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 557
+  },
+  "weather_taurus": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 557
+  },
+  "weather_tempest": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 557
+  },
+  "weather_tempest_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 621
+  },
+  "weather_tempest_halfmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 621
+  },
+  "weather_tempest_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 621
+  },
+  "weather_variable_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 621
+  },
+  "weather_variable_halfmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 621
+  },
+  "weather_variable_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 621
+  },
+  "weather_virgo": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 621
+  },
+  "weather_waning_cresent": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 685
+  },
+  "weather_waning_gibbous": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 685
+  },
+  "weather_waxing_cresent": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 685
+  },
+  "weather_waxing_gibbous": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 685
+  },
+  "weather_wind": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 685
+  },
+  "weather_wind_E": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 685
+  },
+  "weather_wind_N": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 685
+  },
+  "weather_wind_NE": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 0,
+    "y": 749
+  },
+  "weather_wind_NW": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 64,
+    "y": 749
+  },
+  "weather_wind_S": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 128,
+    "y": 749
+  },
+  "weather_wind_SE": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 192,
+    "y": 749
+  },
+  "weather_wind_SW": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 256,
+    "y": 749
+  },
+  "weather_wind_W": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 320,
+    "y": 749
+  },
+  "weather_wind_fullmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 384,
+    "y": 749
+  },
+  "weather_wind_halfmoon": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 448,
+    "y": 109
+  },
+  "weather_wind_sun": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 512,
+    "y": 109
+  },
+  "weather_windgust": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 576,
+    "y": 109
+  }
+}
